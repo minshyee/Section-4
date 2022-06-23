@@ -39,4 +39,4 @@ Korean BERT (Bidirectional Encoder Representations from Transformers)
 ## 6. Plan to
 - nltk vador를 이용 점수 계산? -> labeling
 - 현재 이슈로 변경, 모델 비교 실험 추가
-- 
+
