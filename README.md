@@ -27,7 +27,7 @@ Korean BERT (Bidirectional Encoder Representations from Transformers)
 <img src="https://user-images.githubusercontent.com/50479962/175188662-8d5cf8c0-32d3-4512-bb26-2b9c221aa87c.png" width="200" height="200"/>
 
 
-|chennel Level|Best Train|Best Test|
+|channel Level|Best Train|Best Test|
 |---|---|---|
 |0.33|0.8718|0.8473|
 
