@@ -213,8 +213,8 @@ def main(username, password, search_term, filepath, page_sort='Latest'):
 
 
 if __name__ == '__main__':
-    usr = 'anniesmh@gmail.com'
-    pwd = 'smh0115mh!'
+    usr = ''
+    pwd = ''
     path = 'got.csv'
     term = '백신패스'
 
